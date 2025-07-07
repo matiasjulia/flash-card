@@ -13,6 +13,10 @@ font-family: Bai Jamjuree;
 
 #container {
 display:flex ;
+flex-wrap: wrap;
+justify-content: space-between;
+padding: 4rem;
+gap: 3rem;
 }
 .cartao {
 margin: 1rem 1rem;
@@ -87,5 +91,5 @@ height:2rem;
 footer p{
 text-align: center;
 font-size: 0.6rem;
-margin-top: 0,5rem;
+margin-top: 0.5rem;
 }
