@@ -7,17 +7,17 @@ criaCartao(
 
 criaCartao(
     'cinema',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Em que ano foi lançado o primeiro filme de Star Wars?',
+    '1977'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'cinema',
+    'O que significa TVA?',
+    'Autoridade de Variância Temporal'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'cinema',
+    'Quantas Pedras do Infinito existem??',
+    'seis'
 )
