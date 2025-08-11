@@ -1,12 +1,12 @@
 
 criaCartao(
     'cinema',
-    'quem ganhou o ultimo oscar?',
-    'O Python é uma linguagem de programação'
+    'Qual é o nome do filme em que Tom Cruise interpreta um piloto de jato?',
+    'Top Gun '
 )
 
 criaCartao(
-    'Geografia',
+    'cinema',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
